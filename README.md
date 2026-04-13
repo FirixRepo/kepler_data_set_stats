@@ -28,6 +28,8 @@ In this project, I used different statistical tools depending on the problem:
 - bootstrap estimation
 - confidence intervals
 - effect size (Cohen’s d)
+- Pearson correlation method
+- Spearman correction method
 
 ---
 
