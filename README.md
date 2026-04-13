@@ -69,6 +69,11 @@ Finally, I used Cohen’s d to evaluate the effect size.
 
 ---
 
+### Claim 7 — Is there a relation between a planet's radius and its orbital period ?
+
+This claim, was to test and confirm that there can be a positive correlation between the radius and the orbital period of a planet.
+
+---
 ## Key takeaway
 
 Statistical significance does not always mean practical importance.  
